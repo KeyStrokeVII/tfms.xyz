@@ -2,20 +2,25 @@
 
 EXAMPLE HOW TO USE URL<br>
 https://your.hugging.hf.space/playlist/channels<br>
-https://your.hugging.hf.space/playlist/events - Events wont update<br>
+https://your.hugging.hf.space/playlist/events - Events List Will NOT UPDATE<br>
 OR<br>
 https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
 See the list.of.direct.urls.txt or json file for the direct stream urls<br><br>
 ===========================================================================<br><br>
-<b>QUICK SETUP GUIDE, Sign-in/up to huggingface first - https://huggingface.co</b><br>
+<b>QUICK SETUP GUIDE<br>
+Sign-in/up to huggingface first - https://huggingface.co</b><br>
 
-Click the url below then Click the 3 dots (top right side) & select duplicate this space<br>
-Give it a name and change it to public.<br>
+Click the url below then Click the 3 dots (top right side) & select <b>'Duplicate this space'</b><br>
+Give it a <b>Name</b> and change it to <b>Public</b><br>
 https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad<br>
 
-When the build says running<br>
+<b>When the build says running</b><br>
 Click the '3 Dots' next to settings<br>
-Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br><br>
+Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br>
+
+EXAMPLE HOW TO USE URL, Load into a browser to download the playlist<br>
+https://your.hugging.hf.space/playlist/channels<br>
+
 ===========================================================================<br><br>
 <b>HuggingFace Self Setup for more advanced users</b><br>
 

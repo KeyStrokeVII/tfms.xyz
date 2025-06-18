@@ -1,22 +1,22 @@
-<b>DaddyLive Proxy Server (Formally Pigzillaaaaa)<br>
-Usual upload to hugging face etc</b><br>
+<b>DaddyLive Proxy Server (Formally Pigzillaaaaa) - WORKING Install on huggingface or local to get it working.</b><br>
 
-<b>FIXED WORKING Reinstall on huggingface or local</b> to get it working.<br>
-
-EXAMPLE URLS<br>
+EXAMPLE HOW TO USE URL<br>
 https://your.hugging.hf.space/playlist/channels<br>
 https://your.hugging.hf.space/playlist/events - Events wont update<br>
 OR<br>
 https://your.hugging.hf.space/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
-See the list.of.direct.urls.txt or json file for the direct stream urls<br>
-===========================================================================<br>
+See the list.of.direct.urls.txt or json file for the direct stream urls<br><br>
+===========================================================================<br><br>
+<b>QUICK SETUP GUIDE, Sign-in/up to huggingface first - https://huggingface.co</b><br>
 
-<b><h2>Quick Setup on huggyingface Sign-In to huggy First</b></h2>Just duplicate this space<br><br>
-The easiest way to get pigzilla/daddylive 'Proxy/Streams'<br>
-See the huggingface url below Click the 3 dots (top right) & select 'Duplicate this space' Give it a 'Name' & Change it from 'Private to Public'<br>
-https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad/<br><br>
-===========================================================================<br>
+Click the url below then Click the 3 dots (top right side) & select duplicate this space<br>
+Give it a name and change it to public.<br>
+https://huggingface.co/spaces/dadproxy-tfms-xyz/tfms-xyz-newworkingdad<br>
 
+When the build says running<br>
+Click the '3 Dots' next to settings<br>
+Choose 'Embed this Space'. It will show you the url of the space. Your own proxy url, Copy The Url & Keep Safe<br><br>
+===========================================================================<br><br>
 <b>HuggingFace Self Setup for more advanced users</b><br>
 
 1, Download the docker file <a href="https://github.com/MarkMCFC/tfms.xyz/blob/main/Dockerfile">Dockerfile</a><br>
@@ -46,20 +46,10 @@ Visit the proxy at<br>
 http://localhost:7860<br>
 http://localhost:7860/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
 You can also use the urls from the quick setup guide above<br><br>
+===========================================================================<br><br>
 If You Need To Install Docker On Ubuntu:<br>
 snap install docker<br><br>
+===========================================================================<br><br>
 <b>Full credit must go to:</b> <b><u>Pigzillaaaaa</u></b><br><br>
 See Forum, Join Up! Plenty of goodies will be offered - https://forum.tfms.xyz<br>
-Join our discord: https://discord.gg/F3MzfJAffG (#iptv)<br><br>
-
-===========================================================================<br>
-<h2>Vercel</h2>
-1. Sign up to https://vercel.com/signup and select Hobby then click **Deploy** button. <br><br>
-<a href="https://vercel.com/new/clone?repository-url=https://github.com/MarkMCFC/tfms.xyz" target="_blank"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
-<br><br>
-2, Connect your github account to vercel, set the scope and set the repository name (eg. dproxy) then click Create<br>
-3, Wait for the project to build. If you see a ":)" then you are good to go.<br>
-4, Go to the dashboard and under Domain, copy the url (eg. https://dproxy-g327.vercel.app).<br>
-5, Channels playlist is accessible via: https://dproxy-g327.vercel.app/playlist/channels. (Refresh playlist from your iptv player to update)<br>
-6, Events playlist is accessible via: https://dproxy-g327.vercel.app/playlist/events. (Refresh playlist from your iptv player to update)<br><br>
-Optional: Change the timeout(Function Max Duration) and location(Function Region) in Settings->Functions
+Join our discord: https://discord.gg/F3MzfJAffG (#iptv)
